@@ -31,6 +31,11 @@
               "url": "https://usersearch.org/"
             },
             {
+              "name": "Pipl (R$$)",
+              "type": "url",
+              "url": "https://pipl.com/"
+            },
+            {
               "name": "WhatsMyName (T)",
               "type": "url",
               "url": "https://github.com/WebBreacher/WhatsMyName"
@@ -114,7 +119,7 @@
               "url": "http://www.melissadata.com/lookups/emails.asp"
             },
             {
-              "name": "VoilaNorbert",
+              "name": "VoilaNorbert (R$)",
               "type": "url",
               "url": "https://www.voilanorbert.com/"
             },
@@ -1417,6 +1422,11 @@
                   "url": "https://www.imageidentify.com/"
                 },
                 {
+                  "name": "PimEyes",
+                  "type": "url",
+                  "url": "https://pimeyes.com/en"
+                },
+                {
                   "name": "SauceNAO",
                   "type": "url",
                   "url": "https://saucenao.com/"
@@ -1598,6 +1608,11 @@
                   "name": "Yahoo Video Search",
                   "type": "url",
                   "url": "http://video.search.yahoo.com/"
+                },
+                {
+                  "name": "Search YouTube by Location",
+                  "type": "url",
+                  "url": "https://mattw.io/youtube-geofind/location"
                 }
               ]
             },
@@ -2300,6 +2315,11 @@
               "name": "ThatsThem",
               "type": "url",
               "url": "https://thatsthem.com/name-address-search"
+            },
+            {
+              "name": "FaceCheckID",
+              "type": "url",
+              "url": "https://facecheck.id/it"
             },
             {
               "name": "ZoomInfo Directory (R)",
@@ -5983,6 +6003,68 @@
           "name": "Smart Questions",
           "type": "url",
           "url": "http://www.catb.org/esr/faqs/smart-questions.html"
+        }
+      ]
+    },
+    {
+      "name": "Hardware Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Flipper Zero Starter Set Flipper/WiFi/Case",
+          "type": "url",
+          "url": "https://www.amazon.it/Flipper-Zero-Starter-Custodia-silicone/dp/B0CRN1X49V/ref=sr_1_4"
+        },
+        {
+          "name": "ALFA Network AP/Hack/Monitor/Jammer",
+          "type": "url",
+          "url": "https://www.amazon.com/Alfa-AC1900-WiFi-Adapter-Long-Range/dp/B01MZD7Z76/ref=sr_1_4_sspa"
+        },
+        {
+          "name": "USB Rubber Ducky",
+          "type": "url",
+          "url": "https://www.amazon.com/Alfa-AC1900-WiFi-Adapter-Long-Range/dp/B01MZD7Z76/ref=sr_1_4_sspa"
+        },
+        {
+          "name": "iFixit Pro Tech Toolkit",
+          "type": "url",
+          "url": "https://www.ifixit.com/products/pro-tech-toolkit"
+        },
+        {
+          "name": "Parani-UD100 Bluetooth 4.0 USB Adapter",
+          "type": "url",
+          "url": "http://www.senanetworks.com/ud100-g03.html?sc=14&category=3968"
+        },
+        {
+          "name": "O.MG Hacking USB cable",
+          "type": "url",
+          "url": "https://shop.hak5.org/products/omg-cable?variant=39808315261041"
+        },
+        {
+          "name": "Hacking Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "comparitech",
+              "type": "url",
+              "url": "https://www.comparitech.com/net-admin/remote-access-trojan-rat/"
+            },
+            {
+              "name": "HACKADAY",
+              "type": "url",
+              "url": "https://hackaday.com/2022/03/03/hardware-hacking-101-needs-matching-toolkit/"
+            },
+            {
+              "name": "The Verge",
+              "type": "url",
+              "url": "https://www.theverge.com/23379037/hacking-gadgets-cybersecurity-penetration-testing-hardware"
+            },
+            {
+              "name": "Reddit Hacking",
+              "type": "url",
+              "url": "https://old.reddit.com/r/hacking/wiki/index#wiki_remote_administration_.26amp.3B_payloads"
+            }
+          ]
         }
       ]
     }

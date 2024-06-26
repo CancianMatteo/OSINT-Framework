@@ -41,6 +41,11 @@
               "url": "https://github.com/WebBreacher/WhatsMyName"
             },
             {
+              "name": "WhatsMyName",
+              "type": "url",
+              "url": "https://whatsmyname.app/"
+            },
+            {
               "name": "Thats Them",
               "type": "url",
               "url": "https://thatsthem.com/"
@@ -183,22 +188,12 @@
             {
               "name": "VerifyEmail (R$)",
               "type": "url",
-              "url": "http://verify-email.org/"
-            },
-            {
-              "name": "Email Validator (R$)",
-              "type": "url",
-              "url": "http://e-mailvalidator.com/index.php"
+              "url": "https://emailable.com/"
             },
             {
               "name": "MailScrap",
               "type": "url",
               "url": "https://mailscrap.com/"
-            },
-            {
-              "name": "BytePlant Email Validator (R$)",
-              "type": "url",
-              "url": "http://www.email-validator.net/"
             },
             {
               "name": "Read Notify",
@@ -225,6 +220,11 @@
               "name": "Have I been pwned?",
               "type": "url",
               "url": "https://haveibeenpwned.com/"
+            },
+            {
+              "name": "Hudson Rock",
+              "type": "url",
+              "url": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools"
             },
             {
               "name": "DeHashed (R)",
@@ -437,6 +437,11 @@
               "url": "https://github.com/Sw4mpf0x/Kraken"
             },
             {
+              "name": "Online Nikto scanner",
+              "type": "url",
+              "url": "https://nikto.online/"
+            },
+            {
               "name": "urlscan.io",
               "type": "url",
               "url": "https://urlscan.io/search/#*"
@@ -460,6 +465,11 @@
               "name": "AnalyzeID",
               "type": "url",
               "url": "http://analyzeid.com/"
+            },
+            {
+              "name": "urlDNA",
+              "type": "url",
+              "url": "https://urldna.io"
             }
           ]
         },
@@ -473,7 +483,7 @@
               "url": "https://www.certificate-transparency.org/known-logs"
             },
             {
-              "name": "Censys (R$$)",
+              "name": "Censys (R$)",
               "type": "url",
               "url": "https://censys.io/"
             },
@@ -825,6 +835,11 @@
               "url": "http://visualping.io/"
             },
             {
+              "name": "Check site availability Online",
+              "type": "url",
+              "url": "https://upcheck.online/"
+            },
+            {
               "name": "Follow That Page",
               "type": "url",
               "url": "https://www.followthatpage.com/"
@@ -888,9 +903,19 @@
               "url": "https://buckets.grayhatwarfare.com/"
             },
             {
+              "name": "Online Port scanner",
+              "type": "url",
+              "url": "https://portscanner.online/"
+            },
+            {
               "name": "CloudScraper (T)",
               "type": "url",
               "url": "https://github.com/jordanpotti/cloudscraper"
+            },
+            {
+              "name": "Check site availability Online",
+              "type": "url",
+              "url": "https://upcheck.online/"
             }
           ]
         },
@@ -906,6 +931,11 @@
                   "name": "Sn1per (T)",
                   "type": "url",
                   "url": "https://github.com/1N3/Sn1per"
+                },
+                {
+                  "name": "Online Nikto scanner",
+                  "type": "url",
+                  "url": "https://nikto.online/"
                 }
               ]
             },
@@ -965,6 +995,11 @@
               "name": "Hunting-New-Registered-Domains (T)",
               "type": "url",
               "url": "https://github.com/gfek/Hunting-New-Registered-Domains"
+            },
+            {
+              "name": "Online Nikto scanner",
+              "type": "url",
+              "url": "https://nikto.online/"
             }
           ]
         },
@@ -1056,6 +1091,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "urlscan.io",
+              "type": "url",
+              "url": "https://urlscan.io/search/#*"
+            },
+            {
               "name": "Shodan",
               "type": "url",
               "url": "https://www.shodan.io/"
@@ -1081,9 +1121,9 @@
               "url": "http://www.exfiltrated.com/querystart.php"
             },
             {
-              "name": "urlscan.io",
+              "name": "Criminal IP Search",
               "type": "url",
-              "url": "https://urlscan.io/search/#*"
+              "url": "https://www.criminalip.io/"
             },
             {
               "name": "Scanless (T)",
@@ -1106,6 +1146,11 @@
           "name": "IPv4",
           "type": "folder",
           "children": [
+            {
+              "name": "Port scanner Online",
+              "type": "url",
+              "url": "https://portscanner.online/"
+            },
             {
               "name": "Onyphe",
               "type": "url",
@@ -1430,6 +1475,11 @@
                   "name": "SauceNAO",
                   "type": "url",
                   "url": "https://saucenao.com/"
+                },
+                {
+                  "name": "Picarta",
+                  "type": "url",
+                  "url": "https://picarta.ai/"
                 }
               ]
             },
@@ -1869,6 +1919,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "Inflact Instagram Viewer (Anonymous)",
+              "type": "url",
+              "url": "https://inflact.com/profiles/instagram-viewer/"
+            },
+            {
               "name": "Osintgram (T)",
               "type": "url",
               "url": "https://github.com/Datalux/Osintgram"
@@ -2181,6 +2236,17 @@
           ]
         },
         {
+          "name": "Tiktok",
+          "type": "folder",
+          "children": [
+            {
+              "name": "TikTok Viewer",
+              "type": "url",
+              "url": "https://urlebird.com/"
+            }
+          ]
+        },
+        {
           "name": "Other Social Networks",
           "type": "folder",
           "children": [
@@ -2234,6 +2300,11 @@
               "name": "SocialBlade.com",
               "type": "url",
               "url": "http://socialblade.com/"
+            },
+            {
+              "name": "TikTok Viewer",
+              "type": "url",
+              "url": "http://https://urlebird.com//"
             },
             {
               "name": "Talkwalker Social Media Search (R)",
@@ -2315,6 +2386,11 @@
               "name": "ThatsThem",
               "type": "url",
               "url": "https://thatsthem.com/name-address-search"
+            },
+            {
+              "name": "InfoFlow Public People Search In Chilean",
+              "type": "url",
+              "url": "https://infoflow.cloud/"
             },
             {
               "name": "FaceCheckID",
@@ -2689,7 +2765,7 @@
           "url": "https://www.usphonebook.com"
         },
         {
-          "name": "Numspy",
+          "name": "Numspy (T)",
           "type": "python3 Module",
           "url": "https://bhattsameer.github.io/numspy"
         }
@@ -2707,6 +2783,11 @@
               "name": "Melissa Data - Property Viewer (R$)",
               "type": "url",
               "url": "http://www.melissadata.com/lookups/propertyviewer.asp"
+            },
+            {
+              "name": "Regrid (US Only)",
+              "type": "url",
+              "url": "https://app.regrid.com/us/"
             },
             {
               "name": "Zillow",
@@ -3344,7 +3425,7 @@
           "type": "folder",
           "children": [
             {
-              "name": "Live Train Tracker",
+              "name": "Transportation & Train Tracking",
               "type": "url",
               "url": "https://mobility.portal.geops.io/"
             },
@@ -3380,6 +3461,11 @@
           "name": "Geolocation Tools",
           "type": "folder",
           "children": [
+            {
+              "name": "Astrometry",
+              "type": "url",
+              "url": "https://nova.astrometry.net/"
+            },
             {
               "name": "SunCalc",
               "type": "url",
@@ -3940,6 +4026,11 @@
               "name": "AOL Search Database",
               "type": "url",
               "url": "http://search-id.com/"
+            },
+            {
+              "name": "Zenodo",
+              "type": "url",
+              "url": "https://zenodo.org/"
             }
           ]
         },
@@ -4179,6 +4270,16 @@
               "name": "Bounce",
               "type": "url",
               "url": "http://www.bounceapp.com/"
+            },
+            {
+              "name": "Common Crawl",
+              "type": "url",
+              "url": "http://commoncrawl.org/"
+            },
+            {
+              "name": "Anna's Archive",
+              "type": "url",
+              "url": "https://annas-archive.org/"
             },
             {
               "name": "Waybackpack (T)",
@@ -5040,6 +5141,11 @@
               "name": "PhoneInfoga (T)",
               "type": "url",
               "url": "https://github.com/sundowndev/PhoneInfoga"
+            },
+            {
+              "name": "IntelligenceX",
+              "type": "url",
+              "url": "https://intelx.io/"
             }
           ]
         },
@@ -5367,6 +5473,12 @@
             }
           ]
         },
+        
+        {
+          "name": "Vulert: Updated Open Source Vulnerability Database",
+          "type": "url",
+          "url": "https://vulert.com/vuln-db"
+        },
         {
           "name": "MITRE ATT&CK",
           "type": "url",
@@ -5421,6 +5533,11 @@
           "name": "Secunia",
           "type": "url",
           "url": "https://secuniaresearch.flexerasoftware.com/community/research/"
+        },
+        {
+          "name": "Australian Cyber Security Centre",
+          "type": "url",
+          "url": "https://www.cyber.gov.au/"
         },
         {
           "name": "Canadian Centre for Cyber Security",
@@ -5800,6 +5917,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "Privacy Guides",
+              "type": "url",
+              "url": "https://www.privacyguides.org/en/"
+            },
+            {
               "name": "Just Delete Me",
               "type": "url",
               "url": "http://backgroundchecks.org/justdeleteme/"
@@ -5850,7 +5972,7 @@
       ]
     },
     {
-      "name": "Documentation",
+      "name": "Documentation / Evidence Capture",
       "type": "folder",
       "children": [
         {
@@ -5861,6 +5983,11 @@
               "name": "Hunchly (T)",
               "type": "url",
               "url": "http://www.hunch.ly/"
+            },
+            {
+              "name": "Forensic OSINT (T)",
+              "type": "url",
+              "url": "https://www.forensicosint.com/"
             },
             {
               "name": "Fiddler (T)",
@@ -5978,6 +6105,11 @@
               "url": "https://twitter.com/quiztime"
             }
           ]
+        },
+        {
+          "name": "Forensic OSINT KB Guides",
+          "type": "url",
+          "url": "https://www.forensicosint.com/osint-guide"
         },
         {
           "name": "AutomatingOSINT.com",
